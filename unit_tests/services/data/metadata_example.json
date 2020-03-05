@@ -1,0 +1,37 @@
+{
+    "file_count": 1,
+    "last_updated": "07-08-2019",
+    "fee": "Free of charge",
+    "tech_spec_url": "https:\/\/www.gov.uk\/government\/publications\/overseas-companies-ownership-data-technical-specification",
+    "format": "CSV",
+    "update_frequency": "Monthly",
+    "file_size": 1229060,
+    "resources": [
+        {
+            "file_count": 1,
+            "file_name": "CCOD_COU_2019_09.zip",
+            "name": "Change Only File",
+            "format": "CSV",
+            "file_size": 1299401,
+            "row_count": 4138
+        },
+        {
+            "file_count": 1,
+            "file_name": "CCOD_FULL_2019_09.zip",
+            "name": "Full File",
+            "format": "CSV",
+            "file_size": 1229060,
+            "row_count": 4138
+        }
+    ],
+    "public_resources": [
+        {
+            "file_count": 1,
+            "file_name": "example.csv",
+            "name": "Example Data",
+            "format": "CSV",
+            "file_size": 10,
+            "row_count": 1
+        }
+    ]
+}

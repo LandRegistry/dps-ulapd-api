@@ -1,0 +1,12 @@
+{
+  "name": "test",
+  "title": "A new test dataset",
+  "version": "v1",
+  "url": null,
+  "description": "Download this new dataset",
+  "licence_id": "test",
+  "state": "active",
+  "type": "free",
+  "private": false,
+  "external": false
+}

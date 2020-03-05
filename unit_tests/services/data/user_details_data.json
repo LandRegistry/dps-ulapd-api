@@ -1,0 +1,15 @@
+{
+  "email": "ulapdunit@fakermail.com",
+  "user_type": "personal-uk",
+  "title": "Mr",
+  "first_name": "Fred",
+  "last_name": "Jones",
+  "contact_preferences": ["email", "phone"],
+  "telephone_number": "01232323232332",
+  "address_line_1": "12",
+  "address_line_2": "Road",
+  "city": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL1 1AA",
+  "country": "UK"
+}

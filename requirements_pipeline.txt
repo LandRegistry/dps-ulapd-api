@@ -1,0 +1,36 @@
+certifi==2019.9.11        # via requests
+chardet==3.0.4            # via requests
+click==7.0                # via flask
+flask-logconfig==0.4.2
+flask-migrate==2.1.1
+flask-script==2.0.6
+flask-sqlalchemy==2.3.2
+flask==1.0.4
+gunicorn==19.9.0
+idna==2.8                 # via requests
+itsdangerous==1.1.0       # via flask
+jinja2==2.10.3            # via flask
+logconfig==0.4.0          # via flask-logconfig
+logutils==0.3.5           # via logconfig
+markupsafe==1.1.1         # via jinja2
+pyyaml==5.1.2             # via logconfig
+psycopg2-binary==2.7.5
+requests==2.21.0
+urllib3==1.24.3           # via requests
+werkzeug==0.16.0          # via flask
+boto3==1.9.88
+Markdown==3.0.1
+
+coverage==4.5.4
+flake8==3.7.8
+hacking==1.1.0
+pep8-naming==0.8.2
+piprot==0.9.10
+pip-tools==3.9.0
+pytest==4.6.6
+pytest-cov==2.8.1
+pytest-html==1.22.1
+safety==1.8.5
+boto3==1.9.88
+
+git+http://192.168.249.38/dps-beta/common-utilities.git@1.9.0

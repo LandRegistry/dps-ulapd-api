@@ -1,0 +1,56 @@
+{
+    "name": "ccod",
+    "private": false,
+    "external": false,
+    "type": "licenced",
+    "dataset_history": [
+        {
+            "resource_list": [
+                {
+                    "file_size": "1.17 MB",
+                    "file_name": "CCOD_COU_2019_03.zip",
+                    "format": "csv"
+                },
+                {
+                    "file_size": "1.17 MB",
+                    "file_name": "CCOD_FULL_2019_03.zip",
+                    "format": "csv"
+                }
+            ],
+            "unsorted_date": "01-03-2019",
+            "last_updated": "October 2019"
+        },
+        {
+            "resource_list": [
+                {
+                    "file_size": "1.17 MB",
+                    "file_name": "CCOD_COU_2019_02.zip",
+                    "format": "csv"
+                },
+                {
+                    "file_size": "1.17 MB",
+                    "file_name": "CCOD_FULL_2019_02.zip",
+                    "format": "csv"
+                }
+            ],
+            "unsorted_date": "01-02-2019",
+            "last_updated": "October 2019"
+        },
+        {
+            "resource_list": [
+                {
+                    "file_size": "1.17 MB",
+                    "file_name": "CCOD_COU_2019_01.zip",
+                    "format": "csv"
+                },
+                {
+                    "file_size": "1.17 MB",
+                    "file_name": "CCOD_FULL_2019_01.zip",
+                    "format": "csv"
+                }
+            ],
+            "unsorted_date": "01-01-2019",
+            "last_updated": "October 2019"
+        }
+    ]
+}
