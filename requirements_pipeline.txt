@@ -13,7 +13,7 @@ jinja2==2.10.3            # via flask
 logconfig==0.4.0          # via flask-logconfig
 logutils==0.3.5           # via logconfig
 markupsafe==1.1.1         # via jinja2
-pyyaml==5.1.2             # via logconfig
+pyyaml==5.4             # via logconfig
 psycopg2-binary==2.7.5
 requests==2.21.0
 urllib3==1.24.3           # via requests
